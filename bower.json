@@ -1,0 +1,21 @@
+{
+  "name": "oop-coop.com",
+  "authors": [
+    "OOP!"
+  ],
+  "description": "OOP! Comunicació en codi obert",
+  "license": "MIT",
+  "homepage": "http://www.oop-coop.com/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.2.3",
+    "google-youtube": "GoogleWebComponents/google-youtube#~1.1.2"
+  }
+}

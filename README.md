@@ -14,5 +14,5 @@ Original design by AJ ([n33.co](http://n33.co/)).
 
 ## License
 
-The code of this website is &copy; 2015 [Si yo quiero](http://www.oop-coop.com) under the terms of the [MIT License](LICENSE.md).
+The code of this website is &copy; 2015 [Si yo quiero](http://www.oop-coop.com) under the terms of the [MIT License](LICENSE.md).  
 The contents of this website are &copy; 2015 [OOP!](http://www.oop-coop.com) under the terms of the [Creative Commons BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/deed) license.

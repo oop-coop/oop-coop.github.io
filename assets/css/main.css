@@ -2565,6 +2565,15 @@
 				padding-top: 0;
 			}
 
+	#statement blockquote .cite {
+		font-size: 1.5em;
+		color: rgb(120, 120, 120);
+	}
+
+	#portfolio .work-item div {
+		border: 1px solid rgb(120, 120, 120);
+	}
+
 /* Poptrox */
 
 	@-moz-keyframes spin {

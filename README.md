@@ -2,9 +2,9 @@
 
 Durant més de dos anys el projecte cooperatiu *OOP!* ha caminat oferint serveis de comunicació, audiovisuals i solucions de programari lliure. Al llarg d’aquest temps hem après molt amb les nostres clientes i col·laboradores.
 
-Els projectes comencen, creixen, es desenvolupen de formes sorprenents i evolucionen. A la tardor del 2015 arriba el moment de posar punt final al projecte *OOP!*. Moment, també, en què s’obren nous camins per les persones que el conformàvem i en que es tanca aquesta etapa en la que hem treballat juntes i compartit moltes coses.
+Els projectes comencen, creixen, es desenvolupen de formes sorprenents i evolucionen. *A la tardor del 2015 arriba el moment de posar punt final al projecte OOP!*. Moment, també, en què s’obren nous camins per les persones que el conformàvem i en que es tanca aquesta etapa en la que hem treballat juntes i compartit moltes coses.
 
-*OOP!* ha estat una gran escola. Fins sempre!
+*OOP!* ha estat una gran escola. Fins la propera!
 
 
 ## Credits

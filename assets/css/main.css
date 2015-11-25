@@ -2493,6 +2493,12 @@
 			width: 6.25em;
 		}
 
+		#header small a {
+			color: rgba(255, 255, 255, .4);
+			border-bottom-color: rgba(255, 255, 255, .4);
+			font-size: 0.9em;
+		}
+
 /* Footer */
 
 	#footer {

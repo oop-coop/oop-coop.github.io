@@ -3,8 +3,8 @@
   <channel>
     <title>OOP!</title>
     <description>Comunicació en codi obert.</description>
-    <link>http://www.oop-coop.com/</link>
-    <atom:link href="http://www.oop-coop.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.oop-coop.cc/</link>
+    <atom:link href="http://www.oop-coop.cc/feed.xml" rel="self" type="application/rss+xml" />
     <pubDate>Sat, 28 Nov 2015 00:00:00 +0100</pubDate>
     <lastBuildDate>Sat, 28 Nov 2015 00:00:00 +0100</lastBuildDate>
     <language>ca</language>

@@ -1,11 +1,11 @@
 {
-  "name": "oop-coop.com",
+  "name": "oop-coop.cc",
   "authors": [
     "OOP!"
   ],
   "description": "OOP! Comunicació en codi obert",
   "license": "MIT",
-  "homepage": "http://www.oop-coop.com/",
+  "homepage": "http://www.oop-coop.cc/",
   "private": true,
   "ignore": [
     "**/.*",
